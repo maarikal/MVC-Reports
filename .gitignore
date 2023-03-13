@@ -1,3 +1,4 @@
 /node_modules/
 /.idea/
 /MVC-Reports.iml
+/cypress/videos/duckDuckGo.feature.mp4
