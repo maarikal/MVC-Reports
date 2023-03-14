@@ -2,3 +2,4 @@
 /.idea/
 /MVC-Reports.iml
 /cypress/videos/duckDuckGo.feature.mp4
+/.env
