@@ -1,0 +1,17 @@
+body {
+    background-color: #F5FBEF;
+    color: black;
+    text-align: center;
+}
+
+.image {
+    width: 20rem;
+    height: 20rem;
+    margin: 10px;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
